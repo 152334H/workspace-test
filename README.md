@@ -11,3 +11,11 @@ pip install git+https://github.com/152334H/workspace-test.git
 ```
 
 Please ensure you have CUDA installed on your system.
+
+## Running Tests
+
+To run the tests, execute the following command:
+
+```bash
+pytest tests/
+```
